@@ -1,10 +1,11 @@
 {
   "name": "sis-interv",
   "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build || exit = 0",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
